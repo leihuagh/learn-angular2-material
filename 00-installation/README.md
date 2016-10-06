@@ -1,10 +1,10 @@
 # Project seed includes 
--angular ~2.0.1
--webpack
--webpack-dev-server
--JQuery v3.1.1
--Font Awesome
--Bootstrap 4.0.0-alpha.4
+- angular ~2.0.1
+- webpack
+- webpack-dev-server
+- JQuery v3.1.1
+- Font Awesome
+- Bootstrap 4.0.0-alpha.4
 
 ## Installed all of the @angular2-material
 ```
