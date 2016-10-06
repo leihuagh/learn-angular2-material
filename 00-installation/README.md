@@ -27,3 +27,8 @@
 @angular2-material/tabs - v2.0.0-alpha.8-2 - Angular 2 Material Tabs
 @angular2-material/toolbar - v2.0.0-alpha.8-2 - Angular 2 Material toolbar
 @angular2-material/tooltip - v2.0.0-alpha.8-2 - Angular 2 Material tooltip
+
+### install typings hammerjs
+```
+$ typings install dt~hammerjs --save -global
+```
