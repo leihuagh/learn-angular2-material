@@ -7,7 +7,7 @@
 -Bootstrap 4.0.0-alpha.4
 
 ## Installed all of the @angular2-material
-
+```
 @angular2-material/button - v2.0.0-alpha.8-2 - Angular 2 Material button
 @angular2-material/button-toggle - v2.0.0-alpha.8-2 - Angular 2 Material Button Toggle
 @angular2-material/card - v2.0.0-alpha.8-2 - Angular 2 Material card
@@ -27,6 +27,7 @@
 @angular2-material/tabs - v2.0.0-alpha.8-2 - Angular 2 Material Tabs
 @angular2-material/toolbar - v2.0.0-alpha.8-2 - Angular 2 Material toolbar
 @angular2-material/tooltip - v2.0.0-alpha.8-2 - Angular 2 Material tooltip
+```
 
 ### install typings hammerjs
 ```
