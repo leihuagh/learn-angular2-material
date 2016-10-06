@@ -1,4 +1,12 @@
-# Installed all of the @angular2-material
+# Project seed includes 
+-angular ~2.0.1
+-webpack
+-webpack-dev-server
+-JQuery v3.1.1
+-Font Awesome
+-Bootstrap 4.0.0-alpha.4
+
+## Installed all of the @angular2-material
 
 @angular2-material/button - v2.0.0-alpha.8-2 - Angular 2 Material button
 @angular2-material/button-toggle - v2.0.0-alpha.8-2 - Angular 2 Material Button Toggle
